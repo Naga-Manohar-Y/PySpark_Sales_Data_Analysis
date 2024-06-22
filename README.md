@@ -22,10 +22,6 @@ This project reads sales data and menu data from CSV files, processes the data u
    - Sales by location.
    - Sales by order source.
 
-## Eyecatching Description
-
-"Unlock hidden insights in your sales data with PySpark! Explore customer spending patterns, product popularity, and sales trends to drive better business decisions."
-
 ## Data Sources
 
 - **Sales Data**: Contains details of each sale, including product ID, customer ID, order date, location, and source of the order.
