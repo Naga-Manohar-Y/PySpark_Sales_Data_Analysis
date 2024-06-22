@@ -128,12 +128,7 @@ This project reads sales data and menu data from CSV files, processes the data u
 
 - **PySpark**: For data processing and analysis.
 - **Jupyter Notebook**: For interactive development and visualization.
-- **AWS S3**: For storing data files (if needed).
-- **AWS Redshift**: For data warehousing (if needed).
-- **dbt**: For data transformation (if needed).
-- **Apache Airflow**: For workflow orchestration (if needed).
-- **Docker**: For containerization (if needed).
-- **Google Data Studio**: For data visualization.
+- **Databricks**: For spark cluster.
 
 ## Conclusion
 
