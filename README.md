@@ -5,7 +5,14 @@
 This project leverages PySpark for a comprehensive analysis of sales data, combining it with menu data to generate insightful reports and visualizations. The project demonstrates how to use PySpark for ETL (Extract, Transform, Load) processes and data analysis, providing valuable insights into customer spending, product popularity, and sales trends.
 
 ## Project Structure
-
+.
+├── Data
+│   ├── menu.csv.txt
+│   └── sales.csv.txt
+├── Pyspark_project.html
+├── Pyspark_project_notebook.html
+├── Pyspark_project_notebook.ipynb
+└── README.md
 
 ## Description
 
